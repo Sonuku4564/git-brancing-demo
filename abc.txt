@@ -1,4 +1,6 @@
 feature1+bugfix1+enhance
 feature2
 feature3
+feature4
 bugfix2
+
